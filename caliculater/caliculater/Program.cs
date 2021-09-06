@@ -8,6 +8,7 @@ namespace caliculater
 {
     class Program
     {
+        //main method
         static void Main(string[] args)
 
         {
@@ -23,6 +24,7 @@ namespace caliculater
             }
 
         }
+        //calic method
 
         private static void Calc()
         {
@@ -31,7 +33,6 @@ namespace caliculater
             Console.WriteLine("press 2 for substraction");
             Console.WriteLine("press 3 for multiplication");
             Console.WriteLine("press 4 for division");
-            Console.WriteLine("press 5 for sqrt");
             int option = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter first number");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -62,7 +63,7 @@ namespace caliculater
                             Console.WriteLine("num2 can not be 0 for division, Please enter num2 again");
                             num2 = double.Parse(Console.ReadLine());
                         }
-                        result = division(num1, num2);
+                        result = Math.Round( division(num1, num2));
                         break;
                     }
                 default:
@@ -76,22 +77,25 @@ namespace caliculater
             Console.WriteLine("performed result is " + result);
             
         }
-
+        //additin
         public static Double addition(Double num1, Double num2)
             {
                 Double result = num1 + num2;
                 return result;
             }
+        //substraction
             public static Double substraction(Double num1, Double num2)
             {
                 Double result = num1 - num2;
                 return result;
             }
+        //multiplication
             public static double multiplication(Double num1, Double num2)
             {
                 Double result = num1 * num2;
                 return result;
             }
+        //division
             public static Double division(Double num1, Double num2)
             {
                 Double result = num1 / num2;

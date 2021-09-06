@@ -5,3 +5,10 @@ C:\Users\deltagare\source\repos\caliculater\caliculater\bin\Debug\caliculater.ex
 C:\Users\deltagare\source\repos\caliculater\caliculater\bin\Debug\caliculater.pdb
 C:\Users\deltagare\source\repos\caliculater\caliculater\obj\Debug\caliculater.exe
 C:\Users\deltagare\source\repos\caliculater\caliculater\obj\Debug\caliculater.pdb
+C:\Navya\navyanidamanuri\caliculater\caliculater\bin\Debug\caliculater.exe.config
+C:\Navya\navyanidamanuri\caliculater\caliculater\bin\Debug\caliculater.exe
+C:\Navya\navyanidamanuri\caliculater\caliculater\bin\Debug\caliculater.pdb
+C:\Navya\navyanidamanuri\caliculater\caliculater\obj\Debug\caliculater.csproj.AssemblyReference.cache
+C:\Navya\navyanidamanuri\caliculater\caliculater\obj\Debug\caliculater.csproj.CoreCompileInputs.cache
+C:\Navya\navyanidamanuri\caliculater\caliculater\obj\Debug\caliculater.exe
+C:\Navya\navyanidamanuri\caliculater\caliculater\obj\Debug\caliculater.pdb
