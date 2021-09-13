@@ -1,0 +1,14 @@
+C:\Users\deltagare\source\repos\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\deltagare\source\repos\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\deltagare\source\repos\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\deltagare\source\repos\hangman\hangman\obj\Debug\hangman.csproj.AssemblyReference.cache
+C:\Users\deltagare\source\repos\hangman\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\source\repos\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\deltagare\source\repos\hangman\hangman\obj\Debug\hangman.pdb
+C:\Navya\navyanidamanuri\hangman\bin\Debug\hangman.exe.config
+C:\Navya\navyanidamanuri\hangman\bin\Debug\hangman.exe
+C:\Navya\navyanidamanuri\hangman\bin\Debug\hangman.pdb
+C:\Navya\navyanidamanuri\hangman\obj\Debug\hangman.csproj.AssemblyReference.cache
+C:\Navya\navyanidamanuri\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Navya\navyanidamanuri\hangman\obj\Debug\hangman.exe
+C:\Navya\navyanidamanuri\hangman\obj\Debug\hangman.pdb
