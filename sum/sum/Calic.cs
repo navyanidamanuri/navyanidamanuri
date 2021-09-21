@@ -36,6 +36,9 @@ namespace sum
             Double sub = 0;
             for (int i = 0; i < arr.Length; i++)
             {
+                if (sub == 0)
+                    sub = arr[i];
+                else
                 sub -= arr[i];
             }
             return sub;

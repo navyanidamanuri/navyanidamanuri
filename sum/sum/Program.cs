@@ -107,7 +107,7 @@ namespace sum
             Console.WriteLine("arry og eliments");
             for (int i = 0; i < size; i++)
             {
-                arr[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                arr[i] = double.Parse(Console.ReadLine().Replace("(", "").Replace(")", "").Replace("--", ""), CultureInfo.InvariantCulture);
 
             }
             return  arr;
