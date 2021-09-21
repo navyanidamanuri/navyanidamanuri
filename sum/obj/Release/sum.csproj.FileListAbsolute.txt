@@ -1,0 +1,7 @@
+C:\Users\deltagare\source\repos\sum\sum\bin\Release\sum.exe.config
+C:\Users\deltagare\source\repos\sum\sum\bin\Release\sum.exe
+C:\Users\deltagare\source\repos\sum\sum\bin\Release\sum.pdb
+C:\Users\deltagare\source\repos\sum\sum\obj\Release\sum.csproj.AssemblyReference.cache
+C:\Users\deltagare\source\repos\sum\sum\obj\Release\sum.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\source\repos\sum\sum\obj\Release\sum.exe
+C:\Users\deltagare\source\repos\sum\sum\obj\Release\sum.pdb
