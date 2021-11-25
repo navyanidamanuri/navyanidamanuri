@@ -70,9 +70,11 @@ namespace sum
                
                 case 3:
                     {
-                       arr= GetArray();
-                        result = Calic.multiplication(arr);
+                        
+                        GetDoubleValues(out a, out b);
+                        result = Calic.multiplication(a,b);
                         break;
+                        
                     }
 
                 case 4:
@@ -80,6 +82,8 @@ namespace sum
                         GetDoubleValues(out a, out b);
                          try
                         {
+                            int i = int.Parse("a");
+
                             result = Math.Round(Calic.division(a, b));
                             
                         }

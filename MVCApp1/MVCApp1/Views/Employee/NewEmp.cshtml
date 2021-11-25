@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NewEmp</title>
+</head>
+<body>
+    <div style="text-align:center;width:100%;border:solid">
+        <div style="text-align:center">
+            <a href="/Employee/NewEmp">New Employee</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="/Employee/ShowEmp">Show Employee</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+            <a href="/Login/Login">Logout</a>
+        </div>
+        <hr />
+        <h1>New Employee</h1>
+        <form name="frmEmp" method="post">
+            <input type="text" name="txtName" placeholder="Employee Name" required />
+            <br /><br />
+            <select name="ddlJob">
+                <option value="-1">Select Job</option>
+                <option value="Manager">Manager</option>
+                <option value="Developer">Developer</option>
+            </select>
+            <br /><br />
+            <input type="submit" value="Click Me" />
+            <br /><br />
+            <h2>@ViewBag.empinfo</h2>
+        </form>
+    </div>
+</body>
+</html>

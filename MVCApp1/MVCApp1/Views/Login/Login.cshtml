@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div style="text-align:center;width:100%;border:solid">
+      
+        <h1>Login Here</h1>
+        <form name="frmLogin" method="post">
+            <input type="text" name="txtUser" placeholder="User Name" required />
+            <br /><br />
+            <input type="password" name="txtPass" placeholder="Password" required />
+            <br /><br />
+            <input type="submit" value="Login" />
+            <br /><br />
+            <h2>@ViewBag.info</h2>
+        </form>
+    </div>
+</body>
+</html>
